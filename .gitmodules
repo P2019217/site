@@ -1,6 +1,6 @@
 [submodule "images"]
 	path = images
-	url = https://github.com/P2019217/images
+	url = https://github.com/p2019217/images.git
     branch = master
 [submodule "_gallery"]
 	path = _gallery
